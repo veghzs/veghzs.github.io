@@ -1,0 +1,12 @@
+@font-face{
+    font-family: magyar_script;
+    src: url("font/magyar_script_basic/Magyar_script\ _basic.ttf");
+    font-weight: normal;
+}
+
+h1 {
+    font-family: magyar_script;
+    color: rgb(0, 255, 60);
+
+    text-align:center;
+}
